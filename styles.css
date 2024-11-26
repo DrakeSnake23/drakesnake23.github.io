@@ -293,7 +293,7 @@ footer p {
     color: #333; /* Normal text color */
 }
 @media screen and (max-width: 768px) {
-    #nav {
+    #nav-menu {
         display: none;
     }
 }
