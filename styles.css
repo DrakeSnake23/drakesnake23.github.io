@@ -292,3 +292,8 @@ footer p {
 .contact h2 span {
     color: #333; /* Normal text color */
 }
+@media screen and (max-width: 768px) {
+    #nav {
+        display: none;
+    }
+}
